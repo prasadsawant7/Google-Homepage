@@ -6,12 +6,12 @@
 }
 
 body {
-	padding: 0;
-	margin: 0;
-	font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
+    padding: 0;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
 		Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-	line-height: 1.6;
-	font-size: 18px;
+    line-height: 1.6;
+    font-size: 18px;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
@@ -130,7 +130,6 @@ section .languages a {
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
-    flex-grow: 0;
     border-bottom: 1px solid rgb(60,64,67);
     padding: 0px 20px;
 }
